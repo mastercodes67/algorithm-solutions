@@ -1,0 +1,15 @@
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.sourcelink.json
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\bin\Debug\net9.0\letter_grade_algorithm.exe
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\bin\Debug\net9.0\letter_grade_algorithm.deps.json
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\bin\Debug\net9.0\letter_grade_algorithm.runtimeconfig.json
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\bin\Debug\net9.0\letter_grade_algorithm.dll
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\bin\Debug\net9.0\letter_grade_algorithm.pdb
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.dll
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\refint\letter_grade_algorithm.dll
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.pdb
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\letter_grade_algorithm.genruntimeconfig.cache
+C:\Users\Batuhan\Desktop\algorithm\letter_grade_algorithm\obj\Debug\net9.0\ref\letter_grade_algorithm.dll
