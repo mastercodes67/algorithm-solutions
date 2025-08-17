@@ -1,0 +1,15 @@
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\bin\Debug\net9.0\random_algorithm.exe
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\bin\Debug\net9.0\random_algorithm.deps.json
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\bin\Debug\net9.0\random_algorithm.runtimeconfig.json
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\bin\Debug\net9.0\random_algorithm.dll
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\bin\Debug\net9.0\random_algorithm.pdb
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.sourcelink.json
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.dll
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\refint\random_algorithm.dll
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.pdb
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\random_algorithm.genruntimeconfig.cache
+C:\Users\Batuhan\Desktop\algorithm\random_algorithm\obj\Debug\net9.0\ref\random_algorithm.dll
